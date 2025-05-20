@@ -3,9 +3,9 @@
 3. Fresh lettuce
 4. Juicy tomato slices
 5. Pickles
-5. Crunchy onions
-6. Melted cheese
+6. Crunchy onions
+7. Melted cheese
 8. Jalapeños
-7. Grilled chicken patty
+9. Grilled chicken patty
 10. Fried Egg
-8. Bottom bun
+11. Bottom bun
